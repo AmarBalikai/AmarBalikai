@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmarBalikai
+- 👋 Hi, I’m Amar Balikai
 - 👀 I’m interested in developing Android Applications.
 - 🌱 I’m currently learning Kotlin Hilt.
 - 💬 Ask me about Andoid development
