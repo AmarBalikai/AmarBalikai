@@ -6,6 +6,6 @@
 - 🤙 +91 8855908512 Whatsapp - +91 9561255943
 - 📧 amar.balikai108@gmail.com
 
-I am having 6+ years of experience in software industry.I am very stong in logic.
+I am having 6+ years of experience in software industry.I am very strong in logic.
 
 Key Highlights #tags - #Android, #Kotlin, #Java, #SOLID, #Android Jetpack, #Coroutine, #Dagger/Hilt, #Clean architecture, #MVVM, #Scalable, #TDD, #Unit testing, #CICD, #AGILE.
