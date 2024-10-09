@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing Android Applications.
 - 🌱 I’m using MVI, Compose, Kotlin, and Hilt libraries.
 - 💬 Ask me about Andoid development
-- 📫 How to reach me https://www.linkedin.com/in/amar-balika
+- 📫 How to reach me https://www.linkedin.com/in/amar-balikai
 - 🤙 +91 9561255943 Whatsapp - +91 9561255943
 - 📧 balikai.amar@gmail.com / amar.balikai108@gmail.com
 
